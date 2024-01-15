@@ -65,3 +65,6 @@ Image Credits : Wiki Pedia
 
 ## OUTPUT
 
+![Untitled video - Made with Clipchamp (1)](https://github.com/vedapriya17/rockpaperscissors_internpe/assets/140573640/d981f9e1-3832-43c5-82a8-0ae7560064a4)
+
+
